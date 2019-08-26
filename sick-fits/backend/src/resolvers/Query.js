@@ -9,7 +9,7 @@ const Query = {
     //     return global.dogs
     // },
 
-    // used forwardto, so no need to write the following. 
+    // used forwardTo, so no need to write the following. 
     // async items(parent,args, ctx, info){
     //     const items = await ctx.db.query.items();
     //     return items;
